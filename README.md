@@ -2,7 +2,7 @@
 
 ## Objecttives:
 
-1. GMiddleware in ExpressJS
+1. Middleware in ExpressJS/React
 2. Databases and their designs
 3. Web Security and their implementations
 
